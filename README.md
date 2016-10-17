@@ -1,4 +1,4 @@
 # myHelloworld
 myfirstproject
 
-This is my first project, I don't know what I'm doing.
+In the second edition,I delete a line and add a line.
